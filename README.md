@@ -1,4 +1,4 @@
-An "npm run dev" is all you'll need to run it
+A "npm run dev" is all you'll need to run it
 
 I probably should have spent more time looking for a differant graph library, Canvasjs wouldn't let me add data dynamically,
 Wish I could have spent more time on the UI as well that's my strength usually
