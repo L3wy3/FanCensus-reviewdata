@@ -1,7 +1,7 @@
-# Vue 3 + Vite
+An "npm run dev" is all you'll need to run it
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+I probably should have spent more time looking for a differant graph library, Canvasjs wouldn't let me add data dynamically,
+Wish I could have spent more time on the UI as well that's my strength usually
+I contemplated removing the countries that didnt have any data on each game but then I thought that's probably still useful data
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+thanks for any feedback you've got I'm guessing my total absence of components is an issue and maybe I'm too used to ancient legacy codebases as for me that's readable
